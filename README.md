@@ -1,1 +1,1 @@
-# Stock-Trading-news-Notifier
+# Stock-Trading-News-Notifier
